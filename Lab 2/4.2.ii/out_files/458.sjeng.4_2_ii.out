@@ -1,0 +1,11 @@
+Total Instructions: 457817636928
+
+RAS: (Correct - Incorrect)
+
+Branch Predictors: (Name - Correct - Incorrect)
+  Nbit-32K-1: 66496195402 15591328965
+  Nbit-16K-2: 70218834323 11868690026
+  2bitFSM-16K-2: 69723484235 12364040114
+  Nbit-8K-4: 70442108793 11645415574
+
+BTB Predictors: (Name - Correct - Incorrect - TargetCorrect)

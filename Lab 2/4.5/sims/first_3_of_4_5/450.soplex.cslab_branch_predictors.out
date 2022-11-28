@@ -1,0 +1,10 @@
+Total Instructions: 9056016756
+
+RAS: (Correct - Incorrect)
+
+Branch Predictors: (Name - Correct - Incorrect)
+  StaticTakenPredictor: 890251823 778275921
+  BTFNTPredictor: 1295848763 372678981
+  Pentium-M: 1272165477 396362267
+
+BTB Predictors: (Name - Correct - Incorrect - TargetCorrect)

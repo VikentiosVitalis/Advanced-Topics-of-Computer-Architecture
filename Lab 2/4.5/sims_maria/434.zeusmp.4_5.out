@@ -1,0 +1,23 @@
+Total Instructions: 103056410277
+
+RAS: (Correct - Incorrect)
+RAS (1 entries): 26488 9593
+RAS (2 entries): 31593 4488
+RAS (4 entries): 34917 1164
+RAS (8 entries): 36051 30
+RAS (16 entries): 36081 0
+RAS (32 entries): 36081 0
+
+Branch Predictors: (Name - Correct - Incorrect)
+  StaticTakenPredictor: 3286815144 3570523790
+  BTFNTPredictor: 5987320127 870018807
+  Pentium-M: 6448021203 409317731
+  LocalHistory-PHT(8K,2)-BHT(4K,4): 6766988683 90350251
+  LocalHistory-PHT(8K,2)-BHT(8K,2): 6753768522 103570412
+  GlobalHistory-PHT(16K,2)-BHR(4): 6757986447 99352487
+  GlobalHistory-PHT(8K,4)-BHR(4): 6734301622 123037312
+  GlobalHistory-PHT(16K,2)-BHR(8): 6766591179 90747755
+  GlobalHistory-PHT(8K,4)-BHR(8): 6759536825 97802109
+  ALPHA-PREDICTORLocalHistory-PHT(1K,3)-BHT(1K,10),GlobalHistory-PHT(4K,2)-BHR(12)): 6783210620 74128314
+
+BTB Predictors: (Name - Correct - Incorrect - TargetCorrect)

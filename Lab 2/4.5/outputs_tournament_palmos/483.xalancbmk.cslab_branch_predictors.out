@@ -1,0 +1,9 @@
+Total Instructions: 224077691466
+
+RAS: (Correct - Incorrect)
+
+Branch Predictors: (Name - Correct - Incorrect)
+  Tournament(GlobalHistory-PHT(8192,2)-BHR(4),LocalHistory-PHT(4096,2)-BHT(2048,4)): 26925540083 1022020843
+  Tournament(LocalHistory-PHT(8192,1)-BHT(2048,4),LocalHistory-PHT(4096,2)-BHT(2048,4)): 26418754276 1528806650
+
+BTB Predictors: (Name - Correct - Incorrect - TargetCorrect)
